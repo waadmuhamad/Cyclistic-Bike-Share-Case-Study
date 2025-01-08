@@ -23,6 +23,8 @@ The project includes several visualizations created in Tableau to better underst
 
 -Demographic Insights: Visuals showing how various factors such as ride time and trip duration vary for different user types.
 
+You can explore the interactive Tableau visualization for this project [here](https://public.tableau.com/app/profile/waad.muhamad/viz/CyclisticBike-ShareCaseStudy_17363214721500/CyclisticBike-ShareCaseStudy?publish=yes).
+
 ## Recommendations for the Future
 Based on the findings from this analysis, the following recommendations are made for the future:
 
